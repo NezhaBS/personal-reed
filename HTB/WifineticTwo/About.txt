@@ -1,0 +1,5 @@
+While not the first HTB Machine I have completed, it's the first Machine I have played where I didnt actually need to look up a walkthrough for the first flag (user.txt). 
+I'll only be able to write my own thought process for the first flag until the post-linpeas portion, where I had to resort to a walkthrough by onurcancencbilkent on Medium (https://medium.com/@onurcangencbilkent/wifinetictwo-writeup-code-injection-hackthebox-to-be-continue-5509436b2287)
+I'll still summarize how I understand the process to work, but I just wnat to be transparent about what is my direct work and what I had to reference. 
+Since this is my first writeup-style thing I have written, and I am fairly new to using GitHub as a poster(?), i might make some mistakes, idk.
+Ill place the Writeup itself in another file, and i will try to link all of the programs or external downloads needed (scripts, etc.) in the machine file as well. 
