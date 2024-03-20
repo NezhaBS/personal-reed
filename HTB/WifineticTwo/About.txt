@@ -3,3 +3,7 @@ I'll only be able to write my own thought process for the first flag until the p
 I'll still summarize how I understand the process to work, but I just wnat to be transparent about what is my direct work and what I had to reference. 
 Since this is my first writeup-style thing I have written, and I am fairly new to using GitHub as a poster(?), i might make some mistakes, idk.
 Ill place the Writeup itself in another file, and i will try to link all of the programs or external downloads needed (scripts, etc.) in the machine file as well. 
+
+MASSIVE thanks to:
+<nikita-yfh>, the creator of the oneshot.c exploit, which i originally got from here: https://github.com/nikita-yfh/OneShot-C/blob/master/oneshot.c
+<KAI FENG>, who created an exploit on exploit-db.com. The script performs command injection in OpenPCL v3 webservers. Orgionally found here: https://www.exploit-db.com/exploits/51746?source=post_page-----5509436b2287--------------------------------
