@@ -1,3 +1,2 @@
 # personal-reed
-Personal GitHub Repository 
-I'll probably put a couple writeups for Cybersec challenges that I do in here, maybe a couple coding projects. 
+Hello! This is where I will be posting write-ups and blog-ish posts about how I have solved different CTFs, HTB challenges, etc. 
